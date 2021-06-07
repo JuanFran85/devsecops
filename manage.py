@@ -19,7 +19,12 @@ def main():
 
 
 if __name__ == '__main__':
-    # test comment
     main()
 
-    # other comment
+# esto es un comentario
+
+# esto es otro comentario
+
+
+def broken():
+    return True
